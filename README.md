@@ -1,4 +1,4 @@
-# pythontoqrcode
+# pythonn qr code
 ```Membuat Kode QR menggunakam PYTHON```
 
 # instalasi pustaka/library QRcode
