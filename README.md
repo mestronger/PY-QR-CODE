@@ -1,7 +1,10 @@
 # pythontoqrcode
-Membuat Kode QR menggunakam PYTHON
+```Membuat Kode QR menggunakam PYTHON```
 
 # instalasi pustaka/library QRcode
-[pip install qrcode]
+```pip install qrcode```
+
 # untuk mendukung penginstala silahkan type
-[pip install pillow]
+```
+pip install pillow
+```
